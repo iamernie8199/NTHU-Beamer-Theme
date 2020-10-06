@@ -1,6 +1,12 @@
-# NTHU-Beamer-Theme
+NTHU-Beamer-Theme
+=================
 清大用Beamer模板
 
-主要基於Tsinghua Beamer Theme修改
-調整配色並參考中文Beamer模板新增功能
-另外參考如何使用LATEX排版论文補充基礎使用範例
+# 說明
+* 主要基於[Tsinghua Beamer Theme](https://www.overleaf.com/latex/templates/thu-beamer-theme/vwnqmzndvwyb)修改
+    * 調整配色至清大官方色(RGB#7f1084)
+    * 修正細節(e.g. 區塊底色)
+* 參考[中文Beamer模板](https://github.com/SunYanCN/Latex-Beamer-Template)新增功能
+    * 演算法
+    * 插入code
+* 參考[如何使用LATEX排版论文](https://stu.cs.tsinghua.edu.cn/~harry/latex-talk.pdf)補充基礎LATEX使用範例
